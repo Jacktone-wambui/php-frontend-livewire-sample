@@ -3,7 +3,7 @@
         @livewireStyles
     </head>
     <body>
-        Hey you
+    <livewire:counter /> 
         @livewireScripts
     </body>
 </html>
